@@ -1,0 +1,34 @@
+_repo: Amor-y-llanto_70322
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinués de Marco, María del Pilar
+    aliases:
+    - Sinues de Marco, Maria del Pilar
+    - De Marco, María del Pilar Sinués
+    - Marco, María del Pilar Sinués de
+    - Sinués, María del Pilar
+    birthdate: 1835
+    deathdate: 1893
+    gutenberg_agent_id: '44110'
+    url: http://www.gutenberg.org/2009/agents/44110
+description: ''
+gutenberg_issued: '2023-03-19'
+identifiers:
+  gutenberg: '70322'
+language: es
+pgterms:marc904: https://archive.org/details/amoryllantocole00marcgoog/page/n11/mode/2up
+pgterms:marc905: 20200712133045sinusdemar
+pgterms:marc906: '1883'
+pgterms:marc907: DE
+production_note: Carlos Colon, Ramón Pajares Box and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aGermany :$bF. A. Brockhaus, $c1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Amor y llanto
+url: http://www.gutenberg.org/ebooks/70322
